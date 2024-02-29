@@ -1,0 +1,7 @@
+menu {
+    display: flex;
+}
+style {
+    display: flex;
+    flex-direction: column;
+}
